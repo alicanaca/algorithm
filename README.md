@@ -2,6 +2,6 @@
 
 Veri yapıları ve Algoritma
 
-## Patika
+## Patika linki
 
-[Patika linki](https://app.patika.dev/cymbolt)
+[Patika](https://app.patika.dev/cymbolt)
